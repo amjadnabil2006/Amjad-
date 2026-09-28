@@ -1,0 +1,6 @@
+{
+  "name": "صِحّة كير - نظام حجز المواعيد والملفات الطبية",
+  "description": "نظام رقمي متكامل لإدارة وحجز المواعيد بين الطبيب والمريض مع لوحة تحكم شاملة، سجل ملفات طبية وتنبيهات بريدية تلقائية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
